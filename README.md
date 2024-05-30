@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm Christopher Nathaniel</h1>
 <h3 align="center">A passionate frontend developer from the United Kingdom</h3>
 
+<br>
+
+<br>
+
+<b>Currently Working On:</b><br>
+<b>CSS Columns Pro: </b> https://github.com/christophernathaniel/CSSColumnPro<br>
+<b>Sophie Kate Photography: </b> https://sophiekatephotography.co.uk<br>
+<b>React Social Kanban System (Mesh network): </b> (See git Project).<br>
+
+<br>
 <p align="left">* Please note that the git-commits do not include my professional career work, as this is a private profile.</p>
+<br>
+
+<br>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophernathaniel&label=Profile%20views&color=0e75b6&style=flat" alt="christophernathaniel" /> </p>
 
