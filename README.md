@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Nathaniel</h1>
 <h3 align="center">A passionate frontend developer from the United Kingdom</h3>
-<b>27 years programming, from Quick Basic to Laravel!</b><br>
+<b align="center">27 years programming, from Quick Basic to Laravel!</b><br>
 <br>
 
 <br>
